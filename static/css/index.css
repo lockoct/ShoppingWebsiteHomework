@@ -50,3 +50,23 @@
 #pictureCarousel{
     max-height: 500px;
 }
+
+.production .container{
+    margin-top: 10px; 
+    margin-bottom: 20px; 
+    min-height: 600px;
+}
+
+h2{
+    font-family: "Microsoft YaHei";
+    font-weight: 100;
+}
+
+.shopItem{
+    margin-top: 5px; 
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px; 
+    height: 250px;
+    border: 1px solid gray;    
+}
