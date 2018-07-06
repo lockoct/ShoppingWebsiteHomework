@@ -1,3 +1,7 @@
+body{
+    background-color: #f2f2f2;  
+}
+
 .header-top{
     padding-top: 10px;
     background-color: black; 
@@ -60,13 +64,55 @@
 h2{
     font-family: "Microsoft YaHei";
     font-weight: 100;
+    margin-bottom: 35px;
 }
 
 .shopItem{
-    margin-top: 5px; 
+    margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
     height: 250px;
-    border: 1px solid gray;    
+    background-color: white;    
+}
+
+.shopItem h3{
+    font-size: 30px;
+    font-family: "Microsoft YaHei";
+    padding-top: 20px;
+    margin-top: 0px; 
+    margin-left: 20px; 
+}
+
+.shopItem p{
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: "Microsoft YaHei";
+    font-weight: 200;
+}
+
+.footer{
+    margin-top: 70px;
+    padding-top: 20px; 
+    background-color: grey;
+}
+
+.footer .container{
+    min-height: 40px;
+}
+
+.footer .has-border{
+    padding-right: 15px; 
+    border-right: 2px solid white;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+#no-border{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
 }
