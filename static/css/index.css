@@ -71,12 +71,43 @@ h2{
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 20px; 
+    margin-bottom: 0px; 
     height: 250px;
-    background-color: white;    
+    background-color: white;
 }
 
-.shopItem h3{
+.shopInfo{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px; 
+    margin-bottom: 20px; 
+    height: 80px;
+    background-color: white;
+}
+
+.shopInfo p.name{
+    margin-bottom: 5px; 
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.shopInfo p.price{
+    padding-top: 5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.shopItem-new{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px; 
+    height: 250px;
+    background-color: white;
+}
+
+.shopItem-new h3{
     font-size: 30px;
     font-family: "Microsoft YaHei";
     padding-top: 20px;
@@ -84,7 +115,7 @@ h2{
     margin-left: 20px; 
 }
 
-.shopItem p{
+.shopItem-new p{
     margin-left: 40px;
     font-size: 20px;
     font-family: "Microsoft YaHei";
