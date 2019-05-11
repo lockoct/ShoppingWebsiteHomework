@@ -1,0 +1,120 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.header-top {
+    padding-top: 10px;
+    background-color: black;
+}
+
+.header-top .container {
+    min-height: 30px;
+}
+
+.header-top-left {
+    float: left;
+}
+
+.header-top-left ul li {
+    margin-right: 15px;
+}
+
+.header-top-left ul li a {
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.header-top-right {
+    float: right;
+}
+
+.header-top-right ul li a {
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.header-bottom .container {
+    min-height: 90px;
+}
+
+.header-bottom ul {
+    margin-top: 20px;
+}
+
+.header-bottom a {
+    font-size: 25px;
+}
+
+.header-bottom button.navbar-toggle {
+    width: 44px;
+    height: 44px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bodyer {
+    width: 100%;
+    height: 870px;
+}
+
+.bodyer .container {
+    height: 100%;
+}
+
+.bodyer .panel {
+    height: 600px;
+    top: 50%;
+    transform: translate(0, -60%)
+}
+
+.bodyer .btn {
+    width: 100%;
+}
+
+.bodyer img {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bodyer h4 {
+    font-weight: 600;
+    text-align: center;
+}
+
+.bodyer form {
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 70px;
+    padding-top: 20px;
+    background-color: grey;
+}
+
+.footer .container {
+    min-height: 40px;
+}
+
+.footer .has-border {
+    padding-right: 15px;
+    border-right: 2px solid white;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+#no-border {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.error-msg {
+    color: red;
+    font-weight: 100;
+    padding: 0 0 0 5px;
+}
