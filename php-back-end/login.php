@@ -1,7 +1,7 @@
 <?php
     $dsn = 'mysql:dbname=shopwebsite;host=localhost;port=3306';
-    $un= 'root';
-    $pw = '13336527238xhl';
+    $un= '';
+    $pw = '';
 
     try {
         $pdo = new PDO($dsn, $un, $pw);
