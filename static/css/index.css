@@ -1,139 +1,140 @@
-body{
-    background-color: #f2f2f2;  
+body {
+    background-color: #f2f2f2;
 }
 
-.header-top{
+.header-top {
     padding-top: 10px;
-    background-color: black; 
+    background-color: black;
 }
-.header-top .container{
+
+.header-top .container {
     min-height: 30px;
 }
 
-.header-top-left{
+.header-top-left {
     float: left;
 }
 
-.header-top-left ul li{
-    margin-right: 15px; 
+.header-top-left ul li {
+    margin-right: 15px;
 }
 
-.header-top-left ul li a{
+.header-top-left ul li a {
     font-size: 15px;
     color: white;
-    text-decoration:none;
+    text-decoration: none;
 }
 
-.header-top-right{
+.header-top-right {
     float: right;
 }
 
-.header-top-right ul li a{
+.header-top-right ul li a {
     font-size: 15px;
     color: white;
-    text-decoration:none;
+    text-decoration: none;
 }
 
-.header-bottom .container{
+.header-bottom .container {
     min-height: 90px;
 }
 
-.header-bottom ul{
+.header-bottom ul {
     margin-top: 20px;
 }
 
-.header-bottom a{
+.header-bottom a {
     font-size: 25px;
 }
 
-.container-fluid{
+.container-fluid {
     padding-left: 0px;
     padding-right: 0px;
 }
 
-#pictureCarousel{
+#pictureCarousel {
     max-height: 500px;
 }
 
-.production .container{
-    margin-top: 10px; 
-    margin-bottom: 20px; 
+.production .container {
+    margin-top: 10px;
+    margin-bottom: 20px;
     min-height: 600px;
 }
 
-h2{
+h2 {
     font-family: "Microsoft YaHei";
     font-weight: 100;
     margin-bottom: 35px;
 }
 
-.shopItem{
+.shopItem {
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 0px; 
+    margin-bottom: 0px;
     height: 250px;
     background-color: white;
 }
 
-.shopInfo{
+.shopInfo {
     margin-left: 10px;
     margin-right: 10px;
-    margin-top: 0px; 
-    margin-bottom: 20px; 
+    margin-top: 0px;
+    margin-bottom: 20px;
     height: 80px;
     background-color: white;
 }
 
-.shopInfo p.name{
-    margin-bottom: 5px; 
+.shopInfo p.name {
+    margin-bottom: 5px;
     padding-top: 10px;
     font-size: 20px;
     text-align: center;
 }
 
-.shopInfo p.price{
+.shopInfo p.price {
     padding-top: 5px;
     font-size: 15px;
     text-align: center;
 }
 
-.shopItem-new{
+.shopItem-new {
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
     height: 250px;
     background-color: white;
 }
 
-.shopItem-new h3{
+.shopItem-new h3 {
     font-size: 30px;
     font-family: "Microsoft YaHei";
     padding-top: 20px;
-    margin-top: 0px; 
-    margin-left: 20px; 
+    margin-top: 0px;
+    margin-left: 20px;
 }
 
-.shopItem-new p{
+.shopItem-new p {
     margin-left: 40px;
     font-size: 20px;
     font-family: "Microsoft YaHei";
     font-weight: 200;
 }
 
-.footer{
+.footer {
     margin-top: 70px;
-    padding-top: 20px; 
+    padding-top: 20px;
     background-color: grey;
 }
 
-.footer .container{
+.footer .container {
     min-height: 40px;
 }
 
-.footer .has-border{
-    padding-right: 15px; 
+.footer .has-border {
+    padding-right: 15px;
     border-right: 2px solid white;
     font-size: 15px;
     color: white;
@@ -141,14 +142,14 @@ h2{
     text-decoration: none;
 }
 
-#no-border{
+#no-border {
     font-size: 15px;
     color: white;
     text-align: center;
     text-decoration: none;
 }
 
-.header-bottom button.navbar-toggle{
+.header-bottom button.navbar-toggle {
     width: 44px;
     height: 44px;
     margin-top: 20px;
