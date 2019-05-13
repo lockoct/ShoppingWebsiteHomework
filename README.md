@@ -3,9 +3,9 @@
 网页内容为服装商城  
 只有静态页面
 # 展示
-![show1](/description/show1.png "1")
-![show2](/description/show2.png "2")
-![show3](/description/show3.png "3")
+![show1](/description/show1.png "主页")
+![show2](/description/show2.png "登录")
+![show3](/description/show3.png "注册")
 # 使用框架
 1.JQuery  
 2.Bootstrap
