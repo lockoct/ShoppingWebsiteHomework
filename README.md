@@ -4,9 +4,7 @@
 在master分支静态页面的基础上加入了~~PHP后台~~（可能根本不算后台，只是简单的处理代码）  
 并且实现了~~前后台分离~~（不知道算不算...）
 # 展示
-![show1](/description/show1.png "1")
-![show2](/description/show2.png "2")
-![show3](/description/show3.png "3")
+[见主分支](../master/README.md "见主分支")
 # 技术栈
 1. JQuery
 2. Bootstrap3
@@ -16,11 +14,10 @@
 db：创建数据库的sql文件  
 php-back-end：PHP后台处理文件  
 static：静态页面、图像文件  
-description：markdown的需要的图片
 # 部署方式
 现在仅提供使用phpStudy的部署方式：  
 1. 选择php7.2+nginx的方案  
-![show4](/description/show4.png "4")
+![deployment1](../master/description/deployment1.png "phpStudy部署")
 2. 将工程放到WWW文件夹下
 3. nginx配置如下：
 ```nginx
