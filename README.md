@@ -30,7 +30,7 @@ location / {
 
 location ~ \.php$ {
     root           C：/phpStudy/PHPTutorial/WWW/php-back-end;
-    fastcgi_pass   127.0.0.1：9000;
+    fastcgi_pass   127.0.0.1:9000;
     fastcgi_param  SCRIPT_FILENAME  $document_root$fastcgi_script_name;
     include        fastcgi_params;
 }
